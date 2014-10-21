@@ -10,5 +10,8 @@ rectangle = drawpad.create_rectangle(100,200,400,500)
 #roof
 line1 = drawpad.create_line(100,200,250,40)
 line2 = drawpad.create_line(400,200,250,40)
-root.mainloop()
 
+
+
+
+root.mainloop()
